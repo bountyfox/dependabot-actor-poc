@@ -1,1 +1,9 @@
-{ "name": "dependabot-actor-poc", "version": "1.0.0", "private": true, "dependencies": { "lodash": "^4.17.0" } }
+{
+  "name": "dependabot-actor-poc",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.0",
+    "ms": "^2.1.0"
+  }
+}
